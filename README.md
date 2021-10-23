@@ -35,9 +35,8 @@
 </details>
 
 
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/DevAdarsh7
+[instagram]: https://www.instagram.com/dev.adarsh_/
+[linkedin]: https://www.linkedin.com/in/adarshh7/
 
 
