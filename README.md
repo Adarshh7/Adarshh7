@@ -1,6 +1,6 @@
 ### Hi there, I'm Deb Adarsh 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Adarshh7)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/Adarshh7%2FAdarshh7&screen_name=Adarshh7)
 
 
 ## I'm a Student, Developer, and Writer!!
