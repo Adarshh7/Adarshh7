@@ -1,8 +1,9 @@
 ### Hi there, I'm Deb Adarsh 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Deb Adarsh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/DevAdarsh7)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Adarshh7?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+
+## I'm a Student, Developer, and Writer!!
 
 - 🔭 I'm an Android Developer and a Data Analytics enthusiast
 - 🌱 I’m currently pursuing my B.Tech in Computer Science and Engineering
