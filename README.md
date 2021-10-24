@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="https://www.vecteezy.com/free-vector/programmer">Programmer Vectors by Vecteezy</a>
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deb Adarsh</h1>
 <h3 align="center">I'm a Student, Developer, and Writer!!</h3>
@@ -7,11 +7,11 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I'm an Android Developer and a Data Analytics enthusiast
-- 🌱 I’m currently pursuing my B.Tech in Computer Science and Engineering
-- 👯 I’m looking to contribute more into Open Source
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently pursuing my B.Tech in **Computer Science and Engineering**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🥅 2021 Goals: Contribute more to OpenSource 
 - 📫 How to reach me **devadarsh4900@gmail.com**
-- ⚡ Trivial Facts: I'm a mythology geek and an Otaku
+- ⚡ Trivial Facts: I'm a mythology geek and an otaku
 
 
 ## 🚀 Languages and Tools:
