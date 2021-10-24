@@ -25,10 +25,10 @@
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql--v1.png"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.xml.com" target="_blank"> <img src="https://img.icons8.com/color-glass/48/000000/xml.png"/> </a> 
-    
-    
+    <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a> 
+    <a href="https://powerbi.microsoft.com" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/power-bi.png"/> </a>
+    <a href="https://www.tableau.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/> </a> 
      
-    
 </p>
 
 <!--   [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
