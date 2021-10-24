@@ -26,7 +26,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.xml.com" target="_blank"> <img src="https://img.icons8.com/color-glass/48/000000/xml.png"/> </a> 
     <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a> 
-    <a href="https://powerbi.microsoft.com" target="_blank"> <img src="https://img.icons8.com/color/96/000000/power-bi.png"/> </a>
+    <a href="https://powerbi.microsoft.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/> </a>
     <a href="https://www.tableau.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/> </a> 
      
 </p>
