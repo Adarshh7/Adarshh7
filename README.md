@@ -64,6 +64,3 @@
 <a href="https://github.com/Adarshh7?tab=followers"><img src="https://img.shields.io/github/followers/Adarshh7?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <a href="https://www.freepik.com/vectors/computer">Computer vector created by catalyststuff - www.freepik.com</a>
-
-
-
