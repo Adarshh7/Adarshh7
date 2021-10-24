@@ -4,12 +4,12 @@
 <h3 align="center">I'm a Student, Developer, and Writer!!</h3>
 
 
-## 🙋‍♂️ About Me
+## 🗿 About Me
 
-- 🔭 I'm an Android Developer and a Data Analytics enthusiast
-- 🌱 I’m currently pursuing my B.Tech in **Computer Science and Engineering**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 🥅 2021 Goals: Contribute more to OpenSource 
+- 🛸 I'm an Android Developer and a Data Analytics enthusiast
+- 📌 I’m currently pursuing my B.Tech in **Computer Science and Engineering**
+- 🤝 I’m looking to collaborate on **OpenSource Projects**
+- 🎯 2021 Goals: Contribute more to OpenSource 
 - 📫 How to reach me **devadarsh4900@gmail.com**
 - ⚡ Trivial Facts: I'm a mythology geek and an otaku
 
@@ -40,7 +40,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📈 My Github Stats
 
   <br/>
     <a href="https://github.com/Adarshh7/github-readme-stats"><img alt="Deb Adarsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Adarshh7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -57,7 +57,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## 🔗 Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/adarshh7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -66,7 +66,7 @@
 
 </p>
 
-## ❤ Views and Followers
+## 👁 Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Adarshh7">
 </a>
