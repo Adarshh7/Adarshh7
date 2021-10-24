@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="<a href="https://www.freepik.com/vectors/computer">Computer vector created by catalyststuff - www.freepik.com</a>" height="175px"/></a>
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deb Adarsh</h1>
 <h3 align="center">I'm a Student, Developer, and Writer!!.</h3>
