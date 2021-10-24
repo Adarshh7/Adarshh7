@@ -22,8 +22,10 @@
     <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/material-two-tone/24/000000/mysql-logo.png"/> </a>   
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql--v1.png"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.xml.com" target="_blank"> <img src="https://img.icons8.com/color-glass/48/000000/xml.png"/> </a> 
+    
     
      
     
