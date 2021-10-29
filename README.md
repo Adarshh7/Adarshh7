@@ -7,10 +7,10 @@
 ## 🗿 About Me
 
 - 🛸 I'm an Android Developer and a Data Analytics enthusiast
-- 📌 I’m currently pursuing my B.Tech in **Computer Science and Engineering**
+- 📌 I’m currently a junior in **Computer Science and Engineering**
 - 🤝 I’m looking to collaborate on **OpenSource Projects**
 - 🎯 2021 Goals: Contribute more to OpenSource 
-- 📫 How to reach me **devadarsh4900@gmail.com**
+- 📫 How to reach me-**devadarsh4900@gmail.com**
 - ⚡ Trivial Facts: I'm a mythology geek and an otaku
 
 
@@ -63,6 +63,7 @@
 <a href = "https://www.linkedin.com/in/adarshh7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/DevAdarsh7"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/dev.adarsh_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://medium.com/@adarshh7"><img src="<https://img.icons8.com/color/48/000000/medium-logo--v2.png"/>"/></a>
 
 </p>
 
