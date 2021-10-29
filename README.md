@@ -64,6 +64,7 @@
 <a href = "https://www.linkedin.com/in/adarshh7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/DevAdarsh7"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/dev.adarsh_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.reddit.com/user/Revolutionary_Pace95"><img src="https://img.icons8.com/fluency/48/000000/reddit.png"/></a>
 
 </p>
 
