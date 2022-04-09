@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://www.pvsm.ru/images/2019/01/15/Creator-of-while-True-learn-on-programming-in-game-development-VR-issues-and-machine-learning-simulation.png" height="175px"/></a>
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deb Adarsh</h1>
-<h3 align="center">I'm a Student, Developer, and Writer!!</h3>
+<h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deb Adarsh</h2>
+<h3 align="center">Hajimemashite</h3>
 
 
 ## 🗿 About Me:
